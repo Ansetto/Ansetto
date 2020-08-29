@@ -1,4 +1,4 @@
-### - Hello there ![Profile views](https://gpvc.arturio.dev/WareOS)
+### - Hello there
 
 ## Statistics
 
